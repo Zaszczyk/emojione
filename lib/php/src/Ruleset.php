@@ -1266,7 +1266,7 @@ class Ruleset implements RulesetInterface
         ':flag_ly:' => '1f1f1-1f1fe',
         ':ly:' => '1f1f1-1f1fe',
         ':flag_li:' => '1f1f1-1f1ee',
-        ':li:' => '1f1f1-1f1ee',
+        // ':li:' => '1f1f1-1f1ee',
         ':flag_lt:' => '1f1f1-1f1f9',
         ':lt:' => '1f1f1-1f1f9',
         ':flag_lu:' => '1f1f1-1f1fa',
